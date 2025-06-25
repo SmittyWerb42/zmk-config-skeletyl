@@ -20,8 +20,8 @@
 ---
 include:
   - board: nice_nano_v2
-    shield: bastardkb_right
+    shield: skeletyl_right
   - board: nice_nano_v2
-    shield: bastardkb_left
+    shield: skeletyl_left
   - board: nice_nano_v2
     shield: settings_reset
